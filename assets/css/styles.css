@@ -495,6 +495,14 @@ img{
     width: 80%;
 }
 
+.skills__leadership{
+    width: 85%;
+}
+
+.skills__adaptability{
+    width: 85%;
+}
+
 .skills__written{
     width: 95%;
 }
@@ -512,11 +520,23 @@ img{
 }
 
 .skills__ms_powerpoint{
-    width: 85%;
+    width: 90%;
 }
 
 .skills__ms_excel{
     width: 85%;
+}
+
+.skills__english{
+    width: 100%;
+}
+
+.skills__hindi{
+    width: 100%;
+}
+
+.skills__spanish{
+    width: 70%;
 }
 
 .skills__close .skills__list{
