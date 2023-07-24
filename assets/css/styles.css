@@ -484,23 +484,31 @@ img{
 }
 
 .skills__recruitment{
-    width: 75%;
+    width: 90%;
 }
 
 .skills__business_planning{
     width: 80%;
 }
 
+.skills__analytical{
+    width: 85%;
+}
+
+.skills__negotiation{
+    width: 85%;
+}
+
 .skills__problem_solving{
-    width: 80%;
+    width: 90%;
 }
 
 .skills__leadership{
-    width: 85%;
+    width: 90%;
 }
 
 .skills__adaptability{
-    width: 85%;
+    width: 90%;
 }
 
 .skills__written{
@@ -515,12 +523,20 @@ img{
     width: 90%;
 }
 
+.skills__teamwork{
+    width: 100%;
+}
+
 .skills__ms_word{
     width: 90%;
 }
 
 .skills__ms_powerpoint{
     width: 90%;
+}
+
+.skills__fe{
+    width: 95%;
 }
 
 .skills__workday{
@@ -535,8 +551,12 @@ img{
     width: 90%;
 }
 
-.skills__ms_excel{
+.skills__linkedin_re{
     width: 85%;
+}
+
+.skills__ms_excel{
+    width: 90%;
 }
 
 .skills__english{
